@@ -1,4 +1,3 @@
-# AKIJ-Group-System-Information-Report
 
 # System Information and Installed Software Report Generator
 
