@@ -1,0 +1,1 @@
+# AKIJ-Group-System-Information-Report
