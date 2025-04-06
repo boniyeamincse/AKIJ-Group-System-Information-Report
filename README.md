@@ -1,5 +1,6 @@
 
 # System Information and Installed Software Report Generator
+![Report Preview](Images/ag-report1.png)
 
 This PowerShell script generates an HTML report containing detailed information about the system and the software installed on it. The report includes system overview, installed software details, and metadata about the report generation.
 
